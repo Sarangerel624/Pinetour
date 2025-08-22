@@ -92,6 +92,11 @@
     align-items: center;
 }
 
+.zuragnuud {
+    display: flex;
+    justify-content: center;
+    padding-top: 110px;
+}
 #cards {
     display: flex;
     padding-top: 65px;
@@ -219,7 +224,7 @@
     flex-direction: column;
     gap: 20px;
     padding-top: 60px;
-    padding-left: 120px;
+    padding-left: 160px;
 }
 
 .border {
@@ -453,7 +458,7 @@
     background-size: cover;
     position: absolute;
     top: 1500px;
-    right: 400px;
+    right: 200px;
     opacity: 0;
     
 }
@@ -469,8 +474,8 @@
     background-position: center;
     background-size: cover;
     position: absolute;
-    top: 1500px;
-    right: 800px;
+    top: 1600px;
+    right: 300px;
     opacity: 0;
 }
 
@@ -485,8 +490,8 @@
     background-position: center;
     background-size: cover;
     position: absolute;
-    top: 1600px;
-    right: 800px;
+    top: 1640px;
+    right: 200px;
     opacity: 0;
 }
 
@@ -501,8 +506,8 @@
     background-position: center;
     background-size: cover;
     position: absolute;
-    top: 1400px;
-    right: 800px;
+    top: 1800px;
+    right: 300px;
     opacity: 0;
 }
 
@@ -517,8 +522,8 @@
     background-position: center;
     background-size: cover;
     position: absolute;
-    top: 1400px;
-    right: 700px;
+    top: 1900px;
+    right: 200px;
     opacity: 0;
 }
 
