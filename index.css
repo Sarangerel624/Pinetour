@@ -94,6 +94,7 @@
 
 .zuragnuud {
     display: flex;
+    gap: 16px;
     justify-content: center;
     padding-top: 110px;
 }
